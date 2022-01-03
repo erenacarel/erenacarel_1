@@ -12,7 +12,7 @@ DC motor sürücüleri üzerinde çalışmaya sevk etmiştir. Ben de bu projede 
 fırçasız DC motorların çalışma prensibini anlamaya çalıştım. Ardından da edindiğim 
 bilgilerin ışığında fırçasız DC motorları sürebilmeye uygun olacak bir sürücü 
 devresi(ESC) tasarlamaya çalıştım.
-
+https://www.youtube.com/watch?v=jZV-QmPm6A0
 
 
 Summary:
